@@ -1,16 +1,16 @@
 ## Функциональность
 
-- Увеличение счётчика (+1)
-- Уменьшение счётчика (-1)
-- Сброс счётчика (0)
+1. Увеличение счётчика (+1)
+2. Уменьшение счётчика (-1)
+3. Сброс счётчика (0)
 
-## Установка и запуск
+## Работа приложения
+1.
+<img width="2559" height="1302" alt="image" src="https://github.com/user-attachments/assets/35e5fd65-687b-48cd-9c9a-a65d5dc6222a" />
 
+2.
+<img width="2505" height="1265" alt="image" src="https://github.com/user-attachments/assets/db5643c5-c1c7-497e-914d-96523cfea8de" />
 
-<img width="2557" height="1334" alt="image" src="https://github.com/user-attachments/assets/20b15525-f924-49a4-92b0-e2c10b82de4e" />
-
-1. Запуск
-```bash
-npm install
-
+3.
+<img width="2550" height="1329" alt="image" src="https://github.com/user-attachments/assets/2406a267-8f8c-4143-a0db-bd156da1e06b" />
 
