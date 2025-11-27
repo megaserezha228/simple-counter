@@ -10,4 +10,5 @@
 ```bash
 npm install
 
-<img width="2555" height="1334" alt="image" src="https://github.com/user-attachments/assets/0667ab92-2015-49e4-b12a-455be43b1e68" />
+<img width="2555" height="1334" alt="image" src="https://github.com/user-attachments/assets/18c265f5-c3f8-41a5-869b-b4792c0d63f7" />
+
